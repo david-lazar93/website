@@ -1,0 +1,117 @@
+/*BODY*/
+body {
+  font-family: 'Comic Neue', cursive;
+  margin: 0;
+  text-align: center;
+}
+h1 {
+  color: #66BFBF;
+  font-family: 'Courgette', cursive;
+  font-size: 60px;
+  margin: 50px auto 0 auto;
+}
+h2 {
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5rem;
+  font-weight: normal;
+  margin-top: 39.84px;
+  padding: 10px;
+}
+h3 {
+
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+p {
+    line-height: 2;
+}
+a {
+  color: #11999E;
+  font-weight: bolder;
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+}
+a:hover {
+  color: #AAC4FF;
+}
+hr {
+  border-top: 8px dotted;
+  color: #4FA095;
+  margin: 100px auto;
+  width: 5%;
+}
+
+/*TOP_CONTAINER*/
+.top-container {
+  background-color: #EAF6F6;
+  padding-top: 20px;
+  position: relative;
+}
+.top-cloud {
+  position: absolute;
+  right: 100px;
+  top: 30px;
+}
+.bottom-cloud {
+  position: absolute;
+  left: 100px;
+}
+
+/*MIDDLE_CONTAINER*/
+.middle-container {
+  margin: 100px 0;
+}
+.profile-description {
+  color: #40514E;
+  width: 31%;
+  margin: auto;
+}
+.animated-gif {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.travel {
+  position: relative;
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+}
+.contact-me2 {
+  width: 50%;
+  margin: 100px auto;
+text-align: left;
+}
+.gif2 {
+  width:30%;
+  float:right;
+  margin-left: 30px;
+  }
+
+
+/*BOTTOM_CONTAINER*/
+
+.bottom-container {
+  background-color: #EAF6F6;
+  padding: 50px;
+  position: relative;
+}
+.grow {
+width: 30%;
+}
+.copyright {
+  color: #AAC4FF;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+.footer-link {
+  color: #11999E;
+  margin: 10px 20px;
+
+}
